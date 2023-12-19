@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MCProtocolLib**
 
-- 📫 How to reach me **warmyxpro@gmail.com**
+- 📫 How to reach me **https://t.me/warmmonky**
 
 - ⚡ Fun fact **I think I'm funny =>**
 
