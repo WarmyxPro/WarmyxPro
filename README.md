@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warmyxpro&show_icons=true&theme=dark&hide_border=true&locale=ru" alt="warmyxpro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warmyxpro&theme=dark" alt="warmyxpro" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warmyxpro&theme=dark" alt="warmyxpro" /></p>
